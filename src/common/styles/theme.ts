@@ -1,0 +1,25 @@
+export const themes = {
+  colours: {
+    white: "#ffffff",
+    blue100: "#003049",
+    red100: "#D62828",
+    red200: "#DA3737",
+    red300: "#DD4646",
+    red400: "#E05656",
+    orange100: "#F77F00",
+    orange200: "#FCBF49",
+    orange300: "#EAE2B7",
+  },
+  fontSizes: {
+    primary: 8,
+    secondaryMiddle: 12,
+    basic: 14,
+    secondary: 16,
+    tertiaryQuarter: 18,
+    tertiaryMiddle: 20,
+    tertiary: 24,
+    fourfoldQuarter: 30,
+    fourfold: 32,
+    fivefold: 40,
+  },
+};
